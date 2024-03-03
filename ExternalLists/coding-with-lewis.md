@@ -1,0 +1,23 @@
+## Ideas from [this video](https://www.youtube.com/watch?v=FCNg8KyMmGI)
+- Todo App
+- Expense Tracker
+- Personal Portfolio
+- Daily Journal Email
+- Flashcard App
+- URL Shortener
+- Pomodoro Timer
+- Recfiipe Finder
+- Password Manager
+- Student Developer Pack (1Password) 
+- Chat Application
+- Calculator (lol)
+- Quote Generator (Images)
+- Discord Bot
+- Make a Video Game
+- Web Scraper
+- RNG Website
+- Typing Speed Test
+- ChatGPT Clone
+- Virtual Tamagotchi
+- Visualize a Dataset
+- Yard Sale Flipper
